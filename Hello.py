@@ -1,5 +1,1 @@
-nome = input()
-saudacao = "Ola, "
-print(saudacao + nome)
-
-
+print("Ola, Mundo")
