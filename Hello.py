@@ -1,2 +1,3 @@
 name = input()
-print("Ola, " + name)
+ola = "Ola, "
+print(ola + name)
