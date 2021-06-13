@@ -1,2 +1,3 @@
 name = input()
-print("Ola, " + name)
+saudacao = "Ola, "
+print(saudacao + name)
