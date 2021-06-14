@@ -1,2 +1,3 @@
 nome = input()
-print("Ola, " + nome + "!")
+ola = "Ola , "
+print(ola + nome + "!")
