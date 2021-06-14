@@ -1,3 +1,4 @@
 nome = input()
-saudacao = "Ola ,"
-print(saudacao + nome)
+ola = "Ola ,"
+print(ola + nome)
+
